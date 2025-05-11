@@ -1,5 +1,5 @@
 # Greetings, I'm Nettie Vij!
-
+datascienceportfol.io/nettievij
 I am a results-driven and detail-oriented Data Analyst with advanced proficiency in data analysis, statistical modeling, and data visualization. Skilled in leveraging SQL, Python, and Tableau to extract actionable insights from complex datasets and drive data-informed decision-making. Adept at developing data pipelines, automating workflows, and presenting findings through compelling visual reports to support strategic business objectives. Seeking to leverage analytical expertise and a proven track record of delivering impactful data solutions in a dynamic and growth-oriented organization.
 
 ## PROFESSIONAL SUMMARY
