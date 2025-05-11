@@ -8,7 +8,6 @@ Analytical and detail-oriented Data Analyst with extensive experience in data an
 
 ## TECHNICAL SKILLS
 
-Microsoft Office Suite:, Excel, Outlook, Powerpoint, Word
-SQL, R programming, data visualization tools, Tableau and Google spreadsheets
-Knowledge of Aloha and Toast POS for entering orders/processing payments. 
+- SQL, R programming, data visualization tools, Tableau and Google spreadsheets
+- Microsoft Office Suite: Excel, Outlook, Powerpoint, Word
 
